@@ -7,7 +7,9 @@ function renderLicenseBadge(license) {
     return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   } else if (license === "Mozilla") {
     return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`
-  }
+  } else if (license === "None") {
+    return `N/A`
+  }  
 }
 
 // TODO: Create a function that returns the license link
@@ -19,6 +21,8 @@ function renderLicenseLink(license) {
     return `http://www.apache.org/licenses/`
   } else if (license === "Mozilla") {
     return `https://opensource.org/licenses/MPL-2.0`
+  } else if (license === "None") {
+    return `N/A`
   }
 }
 

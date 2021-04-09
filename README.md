@@ -14,13 +14,13 @@
     * [License](#License)
 
   ## Descritpion
-  This assignment was created via Node.js to generate a READEME.md file.
+  This assignment was created via Node.js to generate a READEME.md file. It uses iqurirer to create a prompt to ask the user a few questions in order to put together all the data needed to create the perfect README.md file.
 
   ## Installation
-  Inquirer must be installed in order for this application to run properly
+  Inquirer must be installed in order for this application to run properly.
 
   ## Usage
-  To install iquirer run in the terminal command line npm install inquirer
+  To install iquirer run in the terminal command line npm install inquirer.
 
   ## Contribution
   Rwan Abdelmonem
@@ -29,9 +29,11 @@
   No tests were ran for this application
 
   ## Questions
+
+  Github URL:
   https://github.com/rabdelmonem0
 
-  For any questions, I cant be reached at:
+  For any questions, I can be reached at:
   rabdelmonem0@gmail.com
 
 
