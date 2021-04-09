@@ -37,6 +37,16 @@ const questions = [
         messgae: 'Write tests for the application and examples of how to run them:'
     },
     {
+        type: 'input',
+        name: 'Github-URL',
+        messgae: 'What is your Github URL?'
+    },
+    {
+        type: 'input',
+        name: 'Email',
+        messgae: 'What is your email?'
+    },
+    {
         type: 'list',
         name: 'License',
         choices: ['MIT', 'GPLv2', 'Apache', 'None']
