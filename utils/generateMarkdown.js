@@ -112,6 +112,13 @@ function generateMarkdown(data) {
   ## Tests
   ${data.Tests}
 
+  ## Questions
+  ${data.GithubURL}
+
+  For any questions, I cant be reached at:
+  ${data.Email}
+
+
   ## License
   ${renderLicenseSection(data.License)}
 `;

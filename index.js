@@ -38,7 +38,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Github-URL',
+        name: 'GithubURL',
         messgae: 'What is your Github URL?'
     },
     {
