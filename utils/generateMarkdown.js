@@ -113,9 +113,11 @@ function generateMarkdown(data) {
   ${data.Tests}
 
   ## Questions
+
+  Github URL:
   ${data.GithubURL}
 
-  For any questions, I cant be reached at:
+  For any questions, I can be reached at:
   ${data.Email}
 
 

@@ -1,5 +1,5 @@
 
-  # sv
+  # README Generator
 
   ## License Badge/Link
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -14,25 +14,25 @@
     * [License](#License)
 
   ## Descritpion
-  sdv
+  This assignment was created via Node.js to generate a READEME.md file.
 
   ## Installation
-  sDV
+  Inquirer must be installed in order for this application to run properly
 
   ## Usage
-  sdv
+  To install iquirer run in the terminal command line npm install inquirer
 
   ## Contribution
-  sadv
+  Rwan Abdelmonem
 
   ## Tests
-  
+  No tests were ran for this application
 
   ## Questions
-  sv
+  https://github.com/rabdelmonem0
 
   For any questions, I cant be reached at:
-  sdv
+  rabdelmonem0@gmail.com
 
 
   ## License
